@@ -182,6 +182,7 @@
 ### Turkey `r edit_btn`
 
   * Ankara: [Turkish Community](https://www.meetup.com/Turkish-Community-of-R/) of R
+  * Eskişehir: eskisehiR Users Group [\@eskisehiR_users] (https://twitter.com/eskisehiR_users)
 
 ### Ukraine `r edit_btn`
 
